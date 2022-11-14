@@ -17,6 +17,24 @@
   <div type="" about="" class="aui-flex b-line">
     <div class="aui-flex-box">
       <h1>甜蜜</h1>
+      <span id="content">
+     https://kebedd69.github.io/甜蜜.json
+    </span>
+    <button id="copyBT">复制</button>
+    <script>
+      function copyArticle(event) {
+        const range = document.createRange();
+        range.selectNode(document.getElementById('content'));
+ 
+        const selection = window.getSelection();
+        if(selection.rangeCount > 0) selection.removeAllRanges();
+        selection.addRange(range);
+        document.execCommand('copy');
+        alert("复制成功！");
+      }
+ 
+      document.getElementById('copyBT').addEventListener('click', copyArticle, false);
+    </script>
       <div>1.修改直播地址</div>
                                 <div>2.修改token地址</div>
       <span>
