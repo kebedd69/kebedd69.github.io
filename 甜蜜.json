@@ -482,6 +482,14 @@
             "url": "https://hxys.tv/bfq/?url="
         },
         {
+            "name": "风起咸阳",
+            "type": 1,
+            "url": "http://150.158.175.250:88/parse/sign/tvbox?url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
             "name": "风起长林2",
             "type": 1,
             "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
