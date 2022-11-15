@@ -20,7 +20,7 @@
       <span id="content">
      https://kebedd69.github.io/甜蜜.json
     </span>
-    <button id="copyBT">复制</button>
+    <button id="copyBT">复制配置地址</button>
     <script>
       function copyArticle(event) {
         const range = document.createRange();
@@ -30,13 +30,13 @@
         if(selection.rangeCount > 0) selection.removeAllRanges();
         selection.addRange(range);
         document.execCommand('copy');
-        alert("复制成功！");
+        alert("复制成功！粘贴到APP配置地址处就可使用");
       }
  
       document.getElementById('copyBT').addEventListener('click', copyArticle, false);
     </script>
       <div>1.修改直播地址</div>
-                                <div>2.修改token地址</div>
+                                <div>2.修复Lib，auete</div>
       <span>
         <em>甜蜜TVbox配置</em>
         <em><a href="甜蜜.json">打开链接复制地址</a></em>
