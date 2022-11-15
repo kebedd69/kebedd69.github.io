@@ -114,16 +114,6 @@
             "searchable": 1
         },
         {
-            "key": "Lib",
-            "name": "Libvio(SP)",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/ts1023.jar;md5;0817ad7a4ac2896f4ed58bae2bbc26c5"
-        },
-        {
             "key": "Bttoo",
             "name": "Bttoo(SP)",
             "api": "csp_Bttoo",
@@ -187,6 +177,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_xb_auete",
+            "name": "AUETE(XBiu)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://kebedd69.github.io/TVbox-interface/json/XBiu/auete.json",
+            "jar": "https://kebedd69.github.io/TVbox-interface/XBiu.jar;md5;f5f56c383336ab7cc88311a04cee9755"
         },
         {
             "key": "csp_XBiu_1080ys",
@@ -1022,5 +1023,5 @@
         }
     ],
     "wallpaper": "https://tool.weetai.cn/api",
-    "spider": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"
+    "spider": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1109.jar;md5;89c9eaec380dc16ec274b772346270ba"
 }
