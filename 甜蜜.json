@@ -179,15 +179,22 @@
             "filterable": 1
         },
         {
-            "key": "csp_xb_auete",
-            "name": "AUETE(XBiu)",
+            "key": "csp_Lib",
+            "name": "Lib(SP)",
             "type": 3,
-            "api": "csp_XBiu",
+            "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/XBiu/auete.json",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XBiu.jar;md5;f5f56c383336ab7cc88311a04cee9755"
+            "filterable": 1
+        },
+        {
+            "key": "csp_auete",
+            "name": "auete(SP)",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_XBiu_1080ys",
@@ -1023,5 +1030,5 @@
         }
     ],
     "wallpaper": "https://tool.weetai.cn/api",
-    "spider": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1109.jar;md5;89c9eaec380dc16ec274b772346270ba"
+    "spider": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1114.jar;md5;584cf995e74404a61ca9de91c920ecc3"
 }
