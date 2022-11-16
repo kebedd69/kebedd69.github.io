@@ -19,3 +19,5 @@ FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/
 饭太硬：http://饭.eu.org/x/o.json
 
 饭太硬:http://xxooo.eu.org/xx/o
+
+饭太硬:http://饭太硬.ga/x/o.json
