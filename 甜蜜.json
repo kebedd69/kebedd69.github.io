@@ -554,6 +554,11 @@
             }
         },
         {
+            "name": "风起蓟州",
+            "type": 0,
+            "url": "https://www.nxflv.com/?url="
+        },
+        {
             "name": "风起兖州",
             "type": 0,
             "url": "http://jx.gbxy.net.cn/?url="
@@ -669,7 +674,7 @@
         {
             "name": "风起青州",
             "type": 1,
-            "url": "http://150.158.175.250:88/parse/sign/f9eec288fdae85420df3ce01e62891e2?url=",
+            "url": "http://150.158.175.250:88/parse/sign/6a1ce4c80b891d3b2a417ee19a44c0cf?url=",
             "header": {
                 "User-Agent": "Mozilla/5.0"
             }
@@ -972,6 +977,12 @@
                 "ysting.ysxs8.vip"
             ],
             "filter": []
+        },
+        {
+            "host": "pdsapi.aliyundrive.com",
+            "rule": [
+                "/redirect"
+            ]
         },
         {
             "host": "*",
