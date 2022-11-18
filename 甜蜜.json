@@ -197,6 +197,24 @@
             "filterable": 1
         },
         {
+            "key": "csp_Vofl",
+            "name": "Voflix(SP)",
+            "type": 3,
+            "api": "csp_Voflix",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Zjdr",
+            "name": "追剧达人(SP)",
+            "type": 3,
+            "api": "csp_Zjdr",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_XBiu_1080ys",
             "name": "1080影视(XBiu)",
             "type": 3,
@@ -1079,5 +1097,5 @@
         }
     ],
     "wallpaper": "https://tool.weetai.cn/api",
-    "spider": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1114.jar;md5;584cf995e74404a61ca9de91c920ecc3"
+    "spider": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1118.jar;md5;ef09e8b6058c917ed4e6acceb22a0fc3"
 }
