@@ -1,4 +1,6 @@
+
 🪅  港•澳•台,#genre#
+甜蜜,https://alist.kebedd69.repl.co/d/123.mp4
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
@@ -24,16 +26,23 @@
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
 翡翠台,http://113.64.147.90:808/hls/67/index.m3u8 
 翡翠台,http://113.64.147.160:808/hls/67/index.m3u8 
-翡翠台,http://113.64.147.238:808/hls/67/index.m3u8 
+翡翠台,http://113.64.147.238:808/hls/67/index.m3u8
+翡翠台,http://120.84.96.74:808/hls/25/index.m3u8
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠台,http://113.64.147.180:808/hls/67/index.m3u8 
+翡翠台,http://113.64.147.193:808/hls/67/index.m3u8 
+翡翠台,http://113.64.147.223:808/hls/67/index.m3u8 
 TVB星河,http://113.64.147.90:808/hls/135/index.m3u8 
 TVB星河,http://113.64.147.160:808/hls/135/index.m3u8 
 TVB星河,http://113.64.147.238:808/hls/135/index.m3u8
 tvb影视,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8 
 功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8 
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8 
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8 
 无线新闻,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+Pearl,https://cdn.hklive.tv/xxxx/84/index.m3u8
 Pearl,http://120.84.96.50:808/hls/26/index.m3u8 
 Pearl,http://120.84.96.63:808/hls/26/index.m3u8 
 Pearl,http://120.84.96.71:808/hls/26/index.m3u8 
@@ -42,12 +51,14 @@ Pearl,http://120.84.96.211:808/hls/26/index.m3u8
 Pearl,http://120.84.96.215:808/hls/26/index.m3u8 
 Pearl,http://120.84.96.221:808/hls/26/index.m3u8 
 Pearl,http://120.84.96.222:808/hls/26/index.m3u8 
+财经体育资讯台,https://cdn.hklive.tv/xxxx/85/index.m3u8
 财经体育资讯台,http://120.84.96.50:808/hls/86/index.m3u8 
 财经体育资讯台,http://120.84.96.55:808/hls/86/index.m3u8 
 财经体育资讯台,http://120.84.96.63:808/hls/86/index.m3u8 
 财经体育资讯台,http://120.84.96.65:808/hls/86/index.m3u8 
 财经体育资讯台,http://120.84.96.71:808/hls/86/index.m3u8 
 财经体育资讯台,http://120.84.96.74:808/hls/86/index.m3u8 
+J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 J2,http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 J2,http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 J2,http://120.84.96.196:808/hls/86/index.m3u8 
@@ -2392,7 +2403,167 @@ TSN5,http://89.187.175.143:80/3048/mpegts
 埋堆堆37,http://txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.xs
 埋堆堆38,http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
 埋堆堆39,http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
-
+🐟斗鱼,#genre#
+斗鱼电影HD1,http://diyp.112114.xyz/douyu/4246519
+斗鱼电影HD2,http://diyp.112114.xyz/douyu/122402
+斗鱼电影HD3,http://diyp.112114.xyz/douyu/85894
+斗鱼电影HD4,http://diyp.112114.xyz/douyu/747764
+斗鱼电影HD5,http://diyp.112114.xyz/douyu/20415
+斗鱼电影HD6,http://diyp.112114.xyz/douyu/323876
+斗鱼电影HD7,http://diyp.112114.xyz/douyu/6140589
+斗鱼电影HD8,http://zzy789.xyz/douyu1.php?id=6140589
+斗鱼电影HD9,http://diyp.112114.xyz/douyu/8770422
+斗鱼电影HD10,http://diyp.112114.xyz/douyu/8770422
+斗鱼电影HD11,http://diyp.112114.xyz/douyu/2436390
+斗鱼电影HD11,http://diyp.112114.xyz/douyu/2436390
+斗鱼电影HD12,http://diyp.112114.xyz/douyu/218859
+斗鱼电影HD12,http://zzy789.xyz/douyu1.php?id=218859
+斗鱼电影HD13,http://diyp.112114.xyz/douyu/36337
+斗鱼电影HD13,http://diyp.112114.xyz/douyu/36337
+斗鱼电影HD14,http://diyp.112114.xyz/douyu/413573
+斗鱼电影HD14,http://diyp.112114.xyz/douyu/413573
+斗鱼电影HD15,http://diyp.112114.xyz/douyu/1504768
+斗鱼电影HD16,http://diyp.112114.xyz/douyu/3637726
+斗鱼电影HD17,http://diyp.112114.xyz/douyu/9292492
+斗鱼电影HD18,http://zzy789.xyz/douyu1.php?id=9292492
+斗鱼电影HD19,http://diyp.112114.xyz/douyu/252802
+斗鱼电影HD20,http://diyp.112114.xyz/douyu/315131
+斗鱼电影HD20,http://diyp.112114.xyz/douyu/315131
+斗鱼电影HD21,http://diyp.112114.xyz/douyu/8945323
+斗鱼电影HD21,http://zzy789.xyz/douyu1.php?id=8945323
+斗鱼电影HD22,http://diyp.112114.xyz/douyu/2516864
+斗鱼电影HD23,http://zzy789.xyz/douyu1.php?id=248753
+斗鱼电影HD24,http://diyp.112114.xyz/douyu/4332
+斗鱼电影HD25,http://diyp.112114.xyz/douyu/9651304
+斗鱼电影HD25,http://zzy789.xyz/douyu1.php?id=9651304
+斗鱼电影HD26,http://diyp.112114.xyz/douyu/9650887
+斗鱼电影HD27,http://diyp.112114.xyz/douyu/8814650
+斗鱼电影HD27,http://zzy789.xyz/douyu1.php?id=8814650
+斗鱼电影HD28,http://zzy789.xyz/douyu1.php?id=8985415
+斗鱼电影HD28,http://diyp.112114.xyz/douyu/8985415
+斗鱼电影1,http://diyp.112114.xyz/douyu/6027991
+斗鱼电影2,http://diyp.112114.xyz/douyu/4105989
+斗鱼电影3,http://diyp.112114.xyz/douyu/6369954
+斗鱼电影4,http://diyp.112114.xyz/douyu/2793084
+斗鱼电影5,http://diyp.112114.xyz/douyu/434971
+斗鱼电影6,http://diyp.112114.xyz/douyu/7494871
+斗鱼电影7,http://diyp.112114.xyz/douyu/74374
+斗鱼电影8,http://diyp.112114.xyz/douyu/4870914
+斗鱼电影8,http://zzy789.xyz/douyu1.php?id=4870914
+斗鱼电影9,http://diyp.112114.xyz/douyu/7305938
+斗鱼电影9,http://zzy789.xyz/douyu1.php?id=7305938
+斗鱼电影10,http://diyp.112114.xyz/douyu/310926
+斗鱼电影11,http://zzy789.xyz/douyu1.php?id=310926
+斗鱼电影12,http://diyp.112114.xyz/douyu/9292499
+斗鱼电影12,http://zzy789.xyz/douyu1.php?id=9292499
+斗鱼电影13,http://diyp.112114.xyz/douyu/3637778
+斗鱼电影14,http://diyp.112114.xyz/douyu/8603174
+斗鱼电影15,http://zzy789.xyz/douyu1.php?id=96577
+斗鱼电影16,http://diyp.112114.xyz/douyu/4282654
+斗鱼电影17,http://diyp.112114.xyz/douyu/338759
+斗鱼电影18,http://diyp.112114.xyz/douyu/9275635
+斗鱼电影19,http://diyp.112114.xyz/douyu/9652323
+斗鱼电影20,http://diyp.112114.xyz/douyu/9826611
+斗鱼电影21,http://diyp.112114.xyz/douyu/315457
+斗鱼电视剧HD1,http://diyp.112114.xyz/douyu/2838296
+斗鱼电视剧HD1,http://zzy789.xyz/douyu1.php?id=2838296
+斗鱼电视剧HD2,http://diyp.112114.xyz/douyu/7701735
+斗鱼电视剧HD2,http://zzy789.xyz/douyu1.php?id=7701735
+斗鱼电视剧HD3,http://diyp.112114.xyz/douyu/7489563
+斗鱼电视剧HD3,http://zzy789.xyz/douyu1.php?id=7489563
+斗鱼电视剧HD4,http://diyp.112114.xyz/douyu/431460
+斗鱼电视剧HD5,http://diyp.112114.xyz/douyu/6706214
+斗鱼电视剧1,http://diyp.112114.xyz/douyu/6899895
+斗鱼电视剧1,http://zzy789.xyz/douyu1.php?id=6899895
+斗鱼电视剧2,http://diyp.112114.xyz/douyu/276200
+斗鱼电视剧2,http://zzy789.xyz/douyu1.php?id=276200
+斗鱼电视剧3,http://diyp.112114.xyz/douyu/6648727
+斗鱼电视剧4,http://diyp.112114.xyz/douyu/7314294
+斗鱼电视剧4,http://zzy789.xyz/douyu1.php?id=7314294
+斗鱼电视剧5,http://diyp.112114.xyz/douyu/9638983
+斗鱼电视剧5,http://zzy789.xyz/douyu1.php?id=9638983
+斗鱼电视剧6,http://diyp.112114.xyz/douyu/5261342
+斗鱼电视剧6,http://diyp.112114.xyz/douyu/5522351
+斗鱼电视剧7,http://diyp.112114.xyz/douyu/9639508
+斗鱼电视剧7,http://zzy789.xyz/douyu1.php?id=9639508
+斗鱼电视剧8,http://diyp.112114.xyz/douyu/2083382
+斗鱼电视剧8,http://zzy789.xyz/douyu1.php?id=2083382
+斗鱼电视剧9,http://diyp.112114.xyz/douyu/4373285
+斗鱼电视剧10,http://diyp.112114.xyz/douyu/3439096
+斗鱼电视剧10,http://zzy789.xyz/douyu1.php?id=3439096
+斗鱼电视剧11,http://diyp.112114.xyz/douyu/4549169
+斗鱼电视剧12,http://diyp.112114.xyz/douyu/3928
+斗鱼电视剧13,http://diyp.112114.xyz/douyu/7459925
+斗鱼电视剧14,http://diyp.112114.xyz/douyu/7356023
+斗鱼电视剧15,http://diyp.112114.xyz/douyu/5635000
+斗鱼动漫HD,http://diyp.112114.xyz/douyu/206858
+斗鱼动漫1,http://diyp.112114.xyz/douyu/6610883
+斗鱼动漫2,http://diyp.112114.xyz/douyu/1783144
+斗鱼动漫2,http://zzy789.xyz/douyu1.php?id=1783144
+斗鱼动漫3,http://diyp.112114.xyz/douyu/1174353
+斗鱼动漫3,http://zzy789.xyz/douyu1.php?id=1174353
+斗鱼动漫4,http://diyp.112114.xyz/douyu/7528160
+斗鱼动漫4,http://zzy789.xyz/douyu1.php?id=7528160
+斗鱼动漫5,http://diyp.112114.xyz/douyu/7888428
+斗鱼动漫5,http://zzy789.xyz/douyu1.php?id=7888428
+斗鱼搞笑HD1,http://diyp.112114.xyz/douyu/9220456
+斗鱼搞笑HD1,http://zzy789.xyz/douyu1.php?id=9220456
+斗鱼搞笑HD2,http://diyp.112114.xyz/douyu/9770949
+斗鱼搞笑HD2,http://zzy789.xyz/douyu1.php?id=9770949
+斗鱼搞笑HD3,http://diyp.112114.xyz/douyu/9067836
+斗鱼搞笑HD4,http://diyp.112114.xyz/douyu/9817729
+斗鱼搞笑HD4,http://zzy789.xyz/douyu1.php?id=9817729
+斗鱼搞笑1,http://zzy789.xyz/douyu1.php?id=10378551
+斗鱼搞笑2,http://diyp.112114.xyz/douyu/9804180
+斗鱼搞笑2,http://zzy789.xyz/douyu1.php?id=9804180
+斗鱼搞笑3,http://diyp.112114.xyz/douyu/2132902
+斗鱼搞笑3,http://zzy789.xyz/douyu1.php?id=2132902
+斗鱼影评HD1,http://diyp.112114.xyz/douyu/9559158
+斗鱼影评HD2,http://diyp.112114.xyz/douyu/9419771
+斗鱼影评HD2,http://zzy789.xyz/douyu1.php?id=9419771
+斗鱼影评HD3,http://diyp.112114.xyz/douyu/4258555
+斗鱼影评HD3,http://zzy789.xyz/douyu1.php?id=4258555
+斗鱼影评HD4,http://diyp.112114.xyz/douyu/8317926
+斗鱼影评HD4,http://zzy789.xyz/douyu1.php?id=8317926
+斗鱼影评HD5,http://diyp.112114.xyz/douyu/8986636
+斗鱼影评HD5,http://zzy789.xyz/douyu1.php?id=8986636
+斗鱼影评HD6,http://diyp.112114.xyz/douyu/297689
+斗鱼影评HD6,http://zzy789.xyz/douyu1.php?id=297689
+斗鱼影评1,http://diyp.112114.xyz/douyu/9562616
+斗鱼影评1,http://zzy789.xyz/douyu1.php?id=9562616
+斗鱼影评2,http://diyp.112114.xyz/douyu/9527700
+斗鱼影评2,http://zzy789.xyz/douyu1.php?id=9527700
+斗鱼影评3,http://diyp.112114.xyz/douyu/2758565
+斗鱼影评3,http://zzy789.xyz/douyu1.php?id=2758565
+斗鱼美食HD1,http://diyp.112114.xyz/douyu/2901080
+斗鱼美食HD1,http://zzy789.xyz/douyu1.php?id=2901080
+斗鱼美食HD2,http://diyp.112114.xyz/douyu/8144937
+斗鱼美食HD2,http://zzy789.xyz/douyu1.php?id=8144937
+斗鱼科普HD1,http://diyp.112114.xyz/douyu/9317739
+斗鱼科普HD1,http://zzy789.xyz/douyu1.php?id=9317739
+斗鱼科普HD2,http://diyp.112114.xyz/douyu/9447974
+斗鱼科普HD2,http://zzy789.xyz/douyu1.php?id=9447974
+斗鱼科普HD3,http://diyp.112114.xyz/douyu/9369468
+斗鱼科普HD3,http://zzy789.xyz/douyu1.php?id=9369468
+斗鱼科普HD4,http://diyp.112114.xyz/douyu/9738854
+斗鱼科普HD4,http://zzy789.xyz/douyu1.php?id=9738854
+斗鱼科普HD5,http://diyp.112114.xyz/douyu/9385288
+斗鱼科普HD5,http://zzy789.xyz/douyu1.php?id=9385288
+斗鱼科普HD6,http://diyp.112114.xyz/douyu/7357786
+斗鱼科普HD6,http://zzy789.xyz/douyu1.php?id=7357786
+斗鱼棋牌1,http://diyp.112114.xyz/douyu/1227260
+斗鱼棋牌1,http://zzy789.xyz/douyu1.php?id=1227260
+斗鱼棋牌2,http://diyp.112114.xyz/douyu/851040
+斗鱼棋牌2,http://zzy789.xyz/douyu1.php?id=851040
+斗鱼棋牌3,http://diyp.112114.xyz/douyu/6264482
+斗鱼棋牌3,http://zzy789.xyz/douyu1.php?id=6264482
+斗鱼棋牌4,http://diyp.112114.xyz/douyu/4369877
+斗鱼棋牌4,http://zzy789.xyz/douyu1.php?id=4369877
+斗鱼歌舞HD1,http://diyp.112114.xyz/douyu/6129898
+斗鱼歌舞HD1,http://zzy789.xyz/douyu1.php?id=6129898
+斗鱼歌舞HD2,http://diyp.112114.xyz/douyu/3763915
+斗鱼歌舞HD2,http://zzy789.xyz/douyu1.php?id=3763915
+斗鱼综艺HD,http://diyp.112114.xyz/douyu/131977
 🐯  虎牙,#genre#
 周星驰-粤语,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 周星驰,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.xs
