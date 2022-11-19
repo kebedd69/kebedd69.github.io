@@ -426,6 +426,11 @@
             "url": "Sequence"
         },
         {
+            "name": "风起0",
+            "type": 1,
+            "url": "https://drpy.liucn.repl.co/parse/api/dyg.js?url="
+        },
+        {
             "name": "风起1",
             "type": 1,
             "url": "https://m3u8.co/api/?key=HkxDBJ2n38eCRLmpYh&url="
