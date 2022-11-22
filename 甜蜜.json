@@ -142,16 +142,6 @@
             "filterable": 1
         },
         {
-            "key": "厂长影视",
-            "name": "厂长(SP)",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1020.jar"
-        },
-        {
             "key": "追剧喵",
             "name": "追剧喵(SP)",
             "type": 3,
@@ -426,11 +416,21 @@
             "url": "Sequence"
         },
         {
+            "name": "风起江湖",
+            "type": 1,
+            "url": "http://45.248.10.163:4433/json.php?wap=0&url="
+        },
+        {
+            "name": "风起洛阳",
+            "type": 1,
+            "url": "https://k.json.icu/home/api?type=ys&uid=12406929&key=adgouwyCGIRSTUV046&url="
+        },
+        {
             "name": "风起0",
             "type": 1,
             "url": "https://drpy.liucn.repl.co/parse/api/dyg.js?url="
         },
-       {
+        {
             "name": "风起1",
             "type": 0,
             "header": {
