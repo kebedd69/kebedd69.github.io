@@ -87,6 +87,17 @@
             "ext": "https://kebedd69.github.io/TVbox-interface/json/nmys.json"
         },
         {
+            "key": "csp_AppTT",
+            "name": "图图(SP)",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://110.42.6.212:7788"
+        },
+        {
             "key": "csp_Lgyy",
             "name": "蓝光影院(SP)",
             "type": 3,
@@ -195,7 +206,27 @@
             "quickSearch": 1,
             "filterable": 1
         },
-   
+        {
+            "key": "Tutu_spider",
+            "name": "图图影视(SP)",
+            "api": "csp_TutuYs",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "http://45.207.11.9:6618",
+            "jar": "https://kebedd69.github.io/TVbox-interface/jar/tutu1125.jar;md5;0625422b0f75c1a69705c7d30eded699"
+        },
+        {
+            "key": "csp_CZSPP",
+            "name": "厂长资源",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar": "https://kebedd69.github.io/TVbox-interface/jar/tutu1125.jar;md5;0625422b0f75c1a69705c7d30eded699"
+        },
         {
             "key": "csp_XBiu_1080ys",
             "name": "1080影视(XBiu)",
@@ -1088,6 +1119,7 @@
         "k.wudejia.com",
         "vivovip.mmszxc.top",
         "qiu.xixiqiu.com",
+        "qiaoji8.com",
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
@@ -1105,5 +1137,5 @@
         }
     ],
     "wallpaper": "https://tool.weetai.cn/api",
-    "spider": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜11201.jar;md5;d100cc847705024d0df64deb4287acb1"
+    "spider": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1125.jar;md5;49ed8518599e79d14d9fec9dab5271a3"
 }
