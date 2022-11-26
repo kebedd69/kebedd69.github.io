@@ -293,14 +293,6 @@
             "jar": "https://kebedd69.github.io/TVbox-interface/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
         },
         {
-            "key": "多多资源",
-            "name": "多多资源(切)",
-            "type": 1,
-            "api": "https://www.ddzyz1.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
             "key": "csp_xpath_qiumi",
             "name": "球迷直播",
             "type": 3,
@@ -376,7 +368,7 @@
             "playerType": 1,
             "filterable": 0,
             "jar": "https://kebedd69.github.io/TVbox-interface/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
-           "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json;asc"
+            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json;asc"
         },
         {
             "key": "AliPS",
@@ -997,52 +989,63 @@
     ],
     "rules": [
         {
-            "host": "www.sharenice.net",
+            "host": "www.6080dy1.com",
             "rule": [
-                "douyin.com",
-                "/play/"
-            ],
-            "filter": []
+                "m3u8.php",
+                ".m3u8"
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "default.365yg.com"
+            ]
+        },
+        {
+            "host": "www.agemys.cc",
+            "rule": [
+                "cdn-tos",
+                "obj/tos-cn"
+            ]
+        },
+        {
+            "host": "zjmiao.com",
+            "rule": [
+                "play.videomiao.vip/API.php",
+                "time="
+            ]
         },
         {
             "host": "www.sharenice.net",
+            "rule": [
+                "http.*?/play.{0,3}\\?[^url]{2,8}=.*"
+            ]
+        },
+        {
+            "host": "www.sharenice.net",
+            "rule": [
+                "qianpailive.com",
+                "vid="
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "douyin.com/aweme",
+                "video_id="
+            ]
+        },
+        {
+            "host": "*",
             "rule": [
                 "huoshan.com",
                 "/item/video/"
-            ],
-            "filter": []
-        },
-        {
-            "host": "www.sharenice.net",
-            "rule": [
-                "sovv.qianpailive.com",
-                "vid="
-            ],
-            "filter": []
-        },
-        {
-            "host": "*",
-            "rule": [
-                "ysting.ysxs8.vip"
-            ],
-            "filter": []
-        },
-        {
-            "host": "pdsapi.aliyundrive.com",
-            "rule": [
-                "/redirect"
             ]
         },
         {
             "host": "*",
             "rule": [
-                "http((?!http).){26,}?\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)\\?.*"
-            ]
-        },
-        {
-            "host": "*",
-            "rule": [
-                "http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)"
+                "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*|http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)|http((?!http).)*?xg.php\\?id=|http((?!http).)*?/m3/(.*)\\.css"
             ]
         }
     ],
