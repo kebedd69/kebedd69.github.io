@@ -339,7 +339,8 @@
             "playerType": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "jar": "https://kebedd69.github.io/TVbox-interface/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
+            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json;asc"
         },
         {
             "key": "找资源",
@@ -350,7 +351,8 @@
             "playerType": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "jar": "https://kebedd69.github.io/TVbox-interface/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
+            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json;asc"
         },
         {
             "key": "upyunsou",
@@ -361,7 +363,8 @@
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 0,
-            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "jar": "https://kebedd69.github.io/TVbox-interface/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
+            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json;asc"
         },
         {
             "key": "yisou",
@@ -372,7 +375,8 @@
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 0,
-            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "jar": "https://kebedd69.github.io/TVbox-interface/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
+           "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json;asc"
         },
         {
             "key": "AliPS",
@@ -383,7 +387,8 @@
             "playerType": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "jar": "https://kebedd69.github.io/TVbox-interface/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
+            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json;asc"
         },
         {
             "key": "push_agent",
