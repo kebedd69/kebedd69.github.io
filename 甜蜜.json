@@ -26,7 +26,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/bilibili.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/bilibili.json"
         },
         {
             "key": "csp_QQ",
@@ -36,7 +36,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
         },
         {
             "key": "csp_MGTV",
@@ -46,7 +46,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
         },
         {
             "key": "csp_IQIYI",
@@ -56,7 +56,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
         },
         {
             "key": "剧荒TV（SP）",
@@ -84,7 +84,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/nmys.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/nmys.json"
         },
         {
             "key": "csp_AppTT",
@@ -95,7 +95,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://43.154.35.148:9797/api/tutuapp.php"
+            "ext": "http://121.205.88.126:7788"
         },
         {
             "key": "csp_Lgyy",
@@ -215,7 +215,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://1080p.tv/vodtype/2/id/{cateId}.html",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XBiu.jar;md5;f5f56c383336ab7cc88311a04cee9755"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XBiu.jar;md5;f5f56c383336ab7cc88311a04cee9755"
         },
         {
             "key": "csp_XBiu_cokemv",
@@ -226,7 +226,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://cokemv.me/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XBiu.jar;md5;f5f56c383336ab7cc88311a04cee9755"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XBiu.jar;md5;f5f56c383336ab7cc88311a04cee9755"
         },
         {
             "key": "csp_xbpq_子子影视",
@@ -236,7 +236,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://kebedd69.github.io/TVbox-interface/子子影视.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/子子影视.json"
         },
         {
             "key": "csp_xbpq_胖虎影视",
@@ -246,7 +246,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://kebedd69.github.io/TVbox-interface/胖虎影视.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/胖虎影视.json"
         },
         {
             "key": "csp_XYQBiu_神马影视",
@@ -256,8 +256,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/神马XYQ.json",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/神马XYQ.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
         },
         {
             "key": "csp_XYQBiu_大米星球",
@@ -267,8 +267,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/大米XYQ.json",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/大米XYQ.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
         },
         {
             "key": "csp_XYQBiu_虎牙直播",
@@ -278,8 +278,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/虎牙XYQ.json",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XYQPlugin_0926.jar;md5;5555084b40f00191957d9aede81ecb5f"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/虎牙XYQ.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XYQPlugin_0926.jar;md5;5555084b40f00191957d9aede81ecb5f"
         },
         {
             "key": "csp_XYQBiu_斗鱼直播",
@@ -289,8 +289,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/斗鱼XYQ.json",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/斗鱼XYQ.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
         },
         {
             "key": "csp_xpath_qiumi",
@@ -300,7 +300,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/qiumi.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/qiumi.json"
         },
         {
             "key": "csp_XYQHiker_17zhibo",
@@ -310,8 +310,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://kebedd69.github.io/TVbox-interface/17k直播.json",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/17k直播.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
         },
         {
             "key": "在线直播",
@@ -331,7 +331,7 @@
             "playerType": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
             "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"
         },
         {
@@ -343,7 +343,7 @@
             "playerType": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
             "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"
         },
         {
@@ -355,7 +355,7 @@
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 0,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
             "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"
         },
         {
@@ -367,7 +367,7 @@
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 0,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
             "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"
         },
         {
@@ -379,7 +379,7 @@
             "playerType": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
             "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"
         },
         {
@@ -1119,5 +1119,5 @@
         }
     ],
     "wallpaper": "https://tool.weetai.cn/api",
-    "spider": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1130.jar;md5;e356da1f8eedca2e00a5beb40b54c23c"
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/甜蜜1206.jar;md5;631114dacfd160131d2532e4a3b940e1"
 }
