@@ -426,27 +426,27 @@
         },
         {
             "name": "风起1",
-            "type": 0,
+            "type": 1,
             "header": {
-                "User-Agent": "Mozilla/5.0"
+                "User-Agent": "Dalvik/2.1.0"
             },
-            "url": "https://m3u8.co/api/?type=app&key=HkxDBJ2n38eCRLmpYh&url="
+            "url": "https://m3u8.co/api/?key=HkxDBJ2n38eCRLmpYh&url="
         },
         {
             "name": "风起2",
-            "type": 0,
+            "type": 1,
             "header": {
-                "User-Agent": "Mozilla/5.0"
+                "User-Agent": "Dalvik/2.1.0"
             },
-            "url": "https://m3u8.co/api/?type=app&key=TqMo2BRQF0WssvMjPe&url="
+            "url": "https://m3u8.co/api/?key=TqMo2BRQF0WssvMjPe&url="
         },
         {
             "name": "风起3",
-            "type": 0,
+            "type": 1,
             "header": {
-                "User-Agent": "Mozilla/5.0"
+                "User-Agent": "Dalvik/2.1.0"
             },
-            "url": "https://m3u8.co/api/?type=app&key=nz1wfqcwJHdBVJDtT2&url="
+            "url": "https://m3u8.co/api/?key=nz1wfqcwJHdBVJDtT2&url="
         },
         {
             "name": "风起清河",
