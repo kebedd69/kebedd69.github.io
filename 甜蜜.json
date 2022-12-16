@@ -340,11 +340,12 @@
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
-            "playerType": 1,
+            "playerType": 2,
             "quickSearch": 1,
             "filterable": 1,
-           "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
-            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"
+           //"jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
+          //  "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"
+          "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json"
         },
         {
             "key": "upyunsou",
@@ -1124,5 +1125,5 @@
         }
     ],
     "wallpaper": "https://tool.weetai.cn/api",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/甜蜜1206.jar;md5;631114dacfd160131d2532e4a3b940e1"
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/甜蜜1215.jar;md5;fada1bf426c36df39f2d6a154608a0fa"
 }
