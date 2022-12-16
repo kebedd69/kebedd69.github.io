@@ -331,7 +331,7 @@
             "playerType": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
             "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"
         },
         {
@@ -343,7 +343,7 @@
             "playerType": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
+           "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
             "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"
         },
         {
@@ -355,7 +355,7 @@
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 0,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
+           "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
             "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"
         },
         {
@@ -367,7 +367,7 @@
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 0,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
+           "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
             "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"
         },
         {
@@ -379,7 +379,7 @@
             "playerType": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1125.jar;md5;31259341cb1a5ed11da14804d14f1054",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
             "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"
         },
         {
@@ -419,10 +419,10 @@
             "type": 1,
             "url": "https://k.json.icu/home/api?type=ys&uid=12406929&key=adgouwyCGIRSTUV046&url="
         },
-        {
+       {
             "name": "风起0",
             "type": 1,
-            "url": "https://drpy.liucn.repl.co/parse/api/dyg.js?url="
+            "url": "http://47.108.39.237:55/api/?key=01g4LZuWQpF9pLfWRX&url="
         },
         {
             "name": "风起1",
@@ -539,6 +539,11 @@
             "name": "风起长林2",
             "type": 1,
             "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
+        },
+        {
+            "name": "风起长林3",
+            "type": 1,
+            "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
         },
         {
             "name": "风起苍岚",
@@ -1040,7 +1045,7 @@
         {
             "host": "*",
             "rule": [
-                "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*|http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)|http((?!http).)*?xg.php\\?id=|http((?!http).)*?/m3/(.*)\\.css"
+                "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv||mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3)\\?.*|http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv||mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3)|http((?!http).)*?xg.php\\?id=|http((?!http).)*?/m3/(.*)\\.css"
             ]
         }
     ],
