@@ -95,7 +95,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://121.205.88.126:7788"
+            "ext": "http://124.248.66.107:9911"
         },
         {
             "key": "csp_Lgyy",
@@ -193,15 +193,6 @@
             "name": "Voflix(SP)",
             "type": 3,
             "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Zjdr",
-            "name": "追剧达人(SP)",
-            "type": 3,
-            "api": "csp_Zjdr",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -564,7 +555,7 @@
         {
             "name": "风起朔方",
             "type": 1,
-            "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
+            "url": "https://chaloli.cn/api/?key=5a6158efe376db3b464957c3c11745c2&url="
         },
         {
             "name": "风起零陵",
