@@ -14,10 +14,6 @@ FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/
 
 神器：https://神器每日推送.tk/pz.json
 
-刚刚:http://刚刚.live/猫
+饭太硬:http://饭太硬.ga/tv
 
-饭太硬：http://饭.eu.org/x/o.json
-
-饭太硬:http://xxooo.eu.org/xx/o
-
-饭太硬:http://饭太硬.ga/x/o.json
+肥猫:https://ltjm.ml/mao.php?url=http://我不是.肥猫.love:63/接口禁止贩卖
